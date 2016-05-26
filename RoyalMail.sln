@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalMail", "src\RoyalMail\RoyalMail.csproj", "{4743A59D-8848-4F37-AD93-EFACF1BD1A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalMailTest", "test\RoyalMailTest\RoyalMailTest.csproj", "{D52C14BB-F91C-4CF4-8062-528DB68AC0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4743A59D-8848-4F37-AD93-EFACF1BD1A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4743A59D-8848-4F37-AD93-EFACF1BD1A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4743A59D-8848-4F37-AD93-EFACF1BD1A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4743A59D-8848-4F37-AD93-EFACF1BD1A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52C14BB-F91C-4CF4-8062-528DB68AC0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52C14BB-F91C-4CF4-8062-528DB68AC0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52C14BB-F91C-4CF4-8062-528DB68AC0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52C14BB-F91C-4CF4-8062-528DB68AC0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
