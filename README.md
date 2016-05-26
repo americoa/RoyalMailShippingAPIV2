@@ -1,4 +1,4 @@
-# RoyalMailShippingAPIV2
+# Royal Mail Shipping APIV 2
 Royal Mail Shipping APIV2 C#
 
 Sample Project to go directly and test Royal Mail Api Service ,Shipping API V2
